@@ -1,0 +1,160 @@
+#EXTM3U url-tvg="https://thefirefox12537.github.io/streams/epg/guide.xml, https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, http://ppmk.my.id/epg/epg.xml"  refresh="3600"
+
+
+
+#EXTINF:-1 group-title="INDONESIA CHANNEL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png",KOMPAS TV
+udp://@255.1.1.55
+
+#EXTINF:-1 group-title="INDONESIA CHANNEL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",TRANS 7
+udp://@255.1.1.85
+
+#EXTINF:-1 group-title="INDONESIA CHANNEL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV
+udp://@255.1.1.121
+
+#EXTINF:-1 group-title="INDONESIA CHANNEL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GTV
+udp://@255.1.1.100
+
+#EXTINF:-1 group-title="INDONESIA CHANNEL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV
+udp://@255.1.1.83
+
+#EXTINF:-1 group-title="INDONESIA CHANNEL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg",NET
+udp://@255.1.1.129
+
+#EXTINF:-1 tvg-logo="https://cdn.ksa.my.id/balitv.png" group-title="INDONESIA CHANNEL",BALI TV
+udp://@255.1.1.10
+
+#EXTINF:-1 group-title="INDONESIA CHANNEL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg",TVRI Nasional
+udp://@255.1.1.99
+
+#EXTINF:-1 group-title="INDONESIA CHANNEL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
+udp://@255.1.1.125
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDONESIA CHANNEL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png", SCTV
+udp://@255.1.1.123
+
+#EXTINF:-1 group-title="INDONESIA CHANNEL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne
+udp://@255.1.1.80
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDONESIA CHANNEL" tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png", Indosiar
+udp://@255.1.1.93
+
+#EXTINF:-1 group-title="INDONESIA CHANNEL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNC TV
+udp://@255.1.1.86
+
+#EXTINF:-1 group-title="INDONESIA CHANNEL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV
+udp://@255.1.1.127
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png",Cinemachi
+udp://@255.1.1.112
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png",Cinemachi Max
+udp://@255.1.1.106
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png",Chinemachi Xtra
+udp://@255.1.1.26
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png",Celestial MOVIE
+udp://@255.1.1.128
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg",AXN East Asia
+udp://@255.1.1.114
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/KIX_LOGO_150x150.jpg",KIX
+udp://@255.1.1.147
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png",Chinemachi Action
+udp://@255.1.1.77
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop
+udp://@255.1.1.105
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_169.png",HITS MOVIE
+udp://@255.1.1.102
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_0.png",TVN
+udp://@255.1.1.96
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg",Thrill
+udp://@255.1.1.65
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV
+udp://@255.1.1.124
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC Earth Asia
+udp://@255.1.1.118
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/logo-ci.jpg",Crime + Investigation Asia
+udp://@255.1.1.28
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png",History Asia
+udp://@255.1.1.57
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png",ENTERTAINMENT TV
+udp://@255.1.1.32
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_164.png",ONE
+udp://@255.1.1.31
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://tv.releasemyad.com/images/logo/20160109122641sahara-one.jpg",SAHARA ONE
+udp://@255.1.1.119
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_91.png",LIFE
+udp://@255.1.1.130
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_167.jpg",Lifetime Asia
+udp://@255.1.1.60
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_357.png",DW ASIA
+udp://@255.1.1.122
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_350.png",ABC Australia Asia
+udp://@255.1.1.29
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nhk_150.png",NHK World Premium
+udp://@255.1.1.71
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg",BBC World News Asia Pacific
+udp://@255.1.1.117
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/france_150px.jpg",France 24 English
+udp://@255.1.1.74
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png",CNA
+udp://@255.1.1.5
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Aljazeera English
+udp://@255.1.1.151
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_84.png",MNC News
+udp://@255.1.1.79
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://play-lh.googleusercontent.com/3ifpSvHElszjWG4tHGzFfox1Sj4QcLWM7ht0xUgtGEcMyDWVBMieGzldED2z81ocOD4u",ZEE NEWS
+udp://@255.1.1.4
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png",Cinemachi Kids
+udp://@255.1.1.22
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cbeebies_150.png",CBeebies Asia
+udp://@255.1.1.101
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickelodeon.png",Nickelodeon South East Asia
+udp://@255.1.1.4
+
+#EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-5-monde-asie-fr.png",TV5Monde Asie
+udp://@255.1.1.152
+
+#EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-internacional-pt.png",RTPi
+udp://@255.1.1.153
+
+#EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_jazeera_english.png",ALJAZEERA
+udp://@255.1.1.41
+
+#EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/pp/phoenix_cn.png",PHOENIX
+udp://@255.1.1.24
+
+#EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIQAAABjCAMAAABt21ivAAAAgVBMVEX///9BRMWJittER8bj4/ZAQ8U+QcQ2OcLf4PWho+IzNsF3etaKjNv19fzt7fpPUslpbNFwctOVlt9KTciys+hjZs/Z2vP6+v06PcNdX83b3PRUVsu1tuiAgtjr6/m+v+vS0/Gam+DHyO2srebBwux0dtRrbtJdYc0vMsCdn+HLzO+l3cNKAAADy0lEQVRoge2Z23arIBCGNR7QRNBIFNRojDnY7fs/4IYBzUHTphddq2tv/os6HcbMJwwjaS3LyMjIyMjIyMjIyMjoP9F+9T2Rn4Co7e8p+AmI1TchXANhIAyEgTAQn8vn3o9DeFqvGHhc+P5PQ/haHPFFhhVhHfUnCFcLW1YjLstvVgYhjTTxaHwC4dmHHNR2Yc/9+VpUTESe0AhBKkfpYFlbcakXP7mFkI0098K4fgXh3CaZ7e0ZBYcPaKEsACLWAxJCXDbLEBBykeZOGMmXEPenhAN/Lg2fyrmM+DQT9H2IzQjRvwXBxmXLZnXB+678cytMnFTSpEX3BMHIXXnkRTyOlWEY7kc/Jvg1RGk7W8AIYfF9LqtDbxnOPeTd7Y5cmpGok0ROSpwc4NHrgsZZyNJEaCsyhQrCvW4vl0uqCE5JTKtLS64yKJxB5J7/sZKuM5dZqyyLua83riDi/gJEpKfqJHyptreZ/OmQCaIEdybvC3odpG5czSFsD100BM868STk1Ld5XtaInodhqPkcIr1BjDxa9AYRgEMWpls9Bi1AoDWChTsiVDM1CkscrWMM7s8gDjq3M4coJ4gLWA59DeGu0haqq1hn7L5sBISESRcgmlzO/TYnDNZgkxNXcaU5myBYe1QQAyCEDRkgmg7uDGLUEfEOYLpz8xWE2h21flrVj/5IcwcVbuvdsVcQ6TSCC2HF06M+QTA34ryXo02PEO3eghCJztIB0VZDZxC6WW3sqV3IoRjPIbBM7VLkoVqlFnukYG9C7G5jrHoFkdi6g1pQQksQLexa0SQQbOkrlwPNmxBQlzmM4fgVxNaeuvfuBUSu3iA1QlC0tZwJiFuAKJ8h2smheBYh5C52Wmu8bRFCdQksNgc8LF2v+Wm5JjDkXMkF1BAYOsBJOLr4JQTgFWK+MJToIoS93qup5gMU2ClU1DMI3EMiWp0VBM0IJBQZVLsUCTI2wLuDFmEAhlMcoVpsJ9mqniU8CxC8gua0+7hY95pBPL9FZWdiOvsoh3XainJtrFSjuNNjs5IfHYi2rbzRx4hI9O7AjxBP5wlojyTRTgqIdIJIy1vK/dhQ4wWILgiCs+35/kEYQVuta+gcQxIQQuo1LZumiV6erByYKXyUs+xc2x5crNNBaakNWbftBl67x8PkGSFuUqdZx/G4k0RR5vtUyPFsfbGXz5iuq3ofzgfZidUYHCylCBsNCGraoSX6AEoeIKaj9nToFmdeJI5Y8vQrfvXUxTZffgyEgTAQBsJA/JK/8v+K/3cYGRkZGRkZGRkZGRn98/oLvR9HgzRHsv0AAAAASUVORK5CYII=",RAI TV
+udp://@255.1.1.24
+
+#EXTINF:-1 group-title="INTERNATIONAL" tvg-logo="data:image/jpeg;base64,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",TV E
+udp://@255.1.1.154
+
