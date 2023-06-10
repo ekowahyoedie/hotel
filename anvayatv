@@ -12,7 +12,7 @@ rtp://@255.1.1.85:1234
 rtp://@255.1.1.121:1234
 
 #EXTINF:-1 group-title="INDONESIA CHANNEL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GTV
-udp://@255.1.1.100
+udp://@255.1.1.100:1234
 
 #EXTINF:-1 group-title="INDONESIA CHANNEL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV
 udp://@255.1.1.83
