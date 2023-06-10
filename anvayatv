@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1 group-title="INDONESIA CHANNEL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png",KOMPAS TV
-udp://@255.1.1.55:1234
+udp://255.1.1.55:1234
 
 #EXTINF:-1 group-title="INDONESIA CHANNEL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",TRANS 7
 rtp://@255.1.1.85:1234
