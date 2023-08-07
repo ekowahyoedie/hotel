@@ -15,5 +15,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1691436309/ei/t
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Korea",TV CHOSUN
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s3/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Korea",JTBC
+https://jkt-hypera-ab.awan.zip/stream/jtbc_hq/chunks.m3u8?platformLanguage=en&token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4R0NNIn0..-KzWq4RdvbVcvRTL.MXwZYJd35T3Ez2z6BNyHQtaq43Qx-V4YXDIryWR5Z0OY_1KIGFXeuIoTpqBkVK3e0vYFHdxoKS57_UZP69XO9t12vjiLtAYu3SX53-RicDtOXniJxCf53KGDEr3CYt2QQOrsVBmAnnTVaOJ_ZTkitAZ-XTVpLJKzCldt9TfN4gIDd-5f37vY63gYJj-o2-vFZe9HBV4Q_XD3Tx9cBlPrMESKqFzzB46AtZ4esP9dczZn16vySviCyy0vn_73xPKezyfIUrV_zXa2JHEibb72JONm5nFt0foDvMTIMXF5hhiCTqlFUoGqT_nJ--ZzsInd3E6w0TbGkfPAOMkpo6PS51Tr_WwjQfjskTvT4TH3013QhovR4BEy5gBmEvzLeRHqH_iAPquc-LKpCpViMVkgPwsU8BNc0gj9fogcx0O06fUerW72AuE6HslBtINM2gH_LdikDhNy8hzwfiVlK9pdm8ME.ITSBaSKMHXXACUKfls1Mxw
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Korea",MBN
 https://hls-live.mbn.co.kr/mbn-on-air/600k/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY5MTUwNjI2OH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=g-NIak9tffkL5xYVaekXsO%7EiMZmxLytjgAiYZJ3FUlbhfZXjkHhpjABcnmf0ZgnGOaEx08h%7E6jEgSB2IXYIozyUvgYeIuVbrJcyb4pOW6xFiumI3i7rA33kGkNXOZjT-GIb1X4JFjLOQlqOXB77sUw4Oxg4unqMTu5cJCa1thpk_&Key-Pair-Id=pub_hls-live.mbn.co.kr
