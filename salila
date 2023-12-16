@@ -1,0 +1,188 @@
+#EXTINF:-1 tvg-id="" tvg-name="The Salila Beach Resort" tvg-logo="https://salilaresortbali.com/wp-content/uploads/2020/04/logo-transparant-PNG.png" group-title="The Salila Beach Resort",The Salila Beach Resort
+https://tinyurl.com/salila-inhouse
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="MOVIES",HBO HD
+http://103.113.116.150:25461/ekobali/yuk/1851
+#EXTINF:-1 tvg-id="" tvg-name="HBO HITS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/200px-HBOHits-ASIA.png" group-title="MOVIES",HBO HITS HD
+http://103.113.116.150:25461/ekobali/yuk/1852
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="MOVIES",HBO SIGN HD
+http://103.113.116.150:25461/ekobali/yuk/1853
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="MOVIES",HBO FAMILY HD
+http://103.113.116.150:25461/ekobali/yuk/1854
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="" group-title="MOVIES",CINEMAX HD
+http://103.113.116.150:25461/ekobali/yuk/1855
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS 7 HD" tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="LOKAL",TRANS 7 HD
+http://103.113.116.150:25461/ekobali/yuk/1856
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TRANS TV HD" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="LOKAL",TRANS TV HD
+http://103.113.116.150:25461/ekobali/yuk/1857
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR HD" tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" group-title="LOKAL",INDOSIAR HD
+http://103.113.116.150:25461/ekobali/yuk/1858
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV HD" tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="LOKAL",SCTV HD
+http://103.113.116.150:25461/ekobali/yuk/1859
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI HD" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png" group-title="LOKAL",RCTI HD
+http://103.113.116.150:25461/ekobali/yuk/1860
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV HD" tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png" group-title="LOKAL",MNC TV HD
+http://103.113.116.150:25461/ekobali/yuk/1861
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV HD" tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png" group-title="LOKAL",GTV HD
+http://103.113.116.150:25461/ekobali/yuk/1862
+#EXTINF:-1 tvg-id="" tvg-name="iNEWS HD" tvg-logo="https://images.indihometv.com/logo_inews_small.png" group-title="LOKAL",iNEWS HD
+http://103.113.116.150:25461/ekobali/yuk/1863
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE HD" tvg-logo="https://images.indihometv.com/logo_tvonenew_small.png" group-title="LOKAL",TV ONE HD
+http://103.113.116.150:25461/ekobali/yuk/1864
+#EXTINF:-1 tvg-id="" tvg-name="ANTV HD" tvg-logo="https://images.indihometv.com/logo_antvnew_small.png" group-title="LOKAL",ANTV HD
+http://103.113.116.150:25461/ekobali/yuk/1865
+#EXTINF:-1 tvg-id="" tvg-name="NET TV HD" tvg-logo="https://images.indihometv.com/logo_net_ver1.png" group-title="LOKAL",NET TV HD
+http://103.113.116.150:25461/ekobali/yuk/1866
+#EXTINF:-1 tvg-id="" tvg-name="METRO TV HD" tvg-logo="https://images.indihometv.com/logo_metrotv_ver1.png" group-title="LOKAL",METRO TV HD
+http://103.113.116.150:25461/ekobali/yuk/1867
+#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV HD" tvg-logo="https://images.indihometv.com/logo_kompastv_small.png" group-title="LOKAL",KOMPAS TV HD
+http://103.113.116.150:25461/ekobali/yuk/1868
+#EXTINF:-1 tvg-id="" tvg-name="RTV HD" tvg-logo="https://images.indihometv.com/logo_rtv_ver1.png" group-title="LOKAL",RTV HD
+http://103.113.116.150:25461/ekobali/yuk/1869
+#EXTINF:-1 tvg-id="" tvg-name="MOJI HD" tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="LOKAL",MOJI HD
+http://103.113.116.150:25461/ekobali/yuk/1870
+#EXTINF:-1 tvg-id="" tvg-name="IMC HD" tvg-logo="https://images.indihometv.com/logo_imc_small.png" group-title="MOVIES",IMC HD
+http://103.113.116.150:25461/ekobali/yuk/1871
+#EXTINF:-1 tvg-id="" tvg-name="FLIK HD" tvg-logo="https://images.indihometv.com/logo_flik_ver2.png" group-title="MOVIES",FLIK HD
+http://103.113.116.150:25461/ekobali/yuk/1872
+#EXTINF:-1 tvg-id="" tvg-name="BIOSKOP INDONESIA HD" tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png" group-title="MOVIES",BIOSKOP INDONESIA HD
+http://103.113.116.150:25461/ekobali/yuk/1873
+#EXTINF:-1 tvg-id="" tvg-name="WARNER HD" tvg-logo="https://images.indihometv.com/logo_warner_ver1.png" group-title="MOVIES",WARNER HD
+http://103.113.116.150:25461/ekobali/yuk/1874
+#EXTINF:-1 tvg-id="" tvg-name="MENTARI TV HD" tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png" group-title="LOKAL",MENTARI TV HD
+http://103.113.116.150:25461/ekobali/yuk/1875
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD" tvg-logo="https://images.indihometv.com/logo_bein1_ver1.png" group-title="SPORTS",beIN Sports 1 HD
+http://103.113.116.150:25461/ekobali/yuk/1876
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD" tvg-logo="https://images.indihometv.com/logo_bein2_ver1.png" group-title="SPORTS",beIN Sports 3 HD
+http://103.113.116.150:25461/ekobali/yuk/1877
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://images.indihometv.com/logo_axn_ver2.png" group-title="MOVIES",AXN
+http://103.113.116.150:25461/ekobali/yuk/1879
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Lain" tvg-logo="https://images.indihometv.com/logo_dunialain_small.png" group-title="LOKAL",Dunia Lain
+http://103.113.116.150:25461/ekobali/yuk/1880
+#EXTINF:-1 tvg-id="" tvg-name="Crime Investigation" tvg-logo="https://images.indihometv.com/logo_crimeinvest_small.png" group-title="ENTERTAINMENT",Crime Investigation
+http://103.113.116.150:25461/ekobali/yuk/1881
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy" tvg-logo="https://images.indihometv.com/logo_galaxy_small1.png" group-title="MOVIES",Galaxy
+http://103.113.116.150:25461/ekobali/yuk/1882
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium" tvg-logo="https://images.indihometv.com/logo_galaxypremium_small.png" group-title="MOVIES",Galaxy Premium
+http://103.113.116.150:25461/ekobali/yuk/1883
+#EXTINF:-1 tvg-id="" tvg-name="TVN " tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png" group-title="MOVIES",TVN 
+http://103.113.116.150:25461/ekobali/yuk/1884
+#EXTINF:-1 tvg-id="" tvg-name="TVN Movies" tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png" group-title="MOVIES",TVN Movies
+http://103.113.116.150:25461/ekobali/yuk/1885
+#EXTINF:-1 tvg-id="" tvg-name="Usee Sports" tvg-logo="https://images.indihometv.com/assets/useesports-88.png" group-title="SPORTS",Usee Sports
+http://103.113.116.150:25461/ekobali/yuk/1886
+#EXTINF:-1 tvg-id="" tvg-name="Usee Sports 2" tvg-logo="https://images.indihometv.com/logo_useesports2_ver1.png" group-title="SPORTS",Usee Sports 2
+http://103.113.116.150:25461/ekobali/yuk/1887
+#EXTINF:-1 tvg-id="" tvg-name="Hits" tvg-logo="https://images.indihometv.com/logo_hits_ver1.png" group-title="MOVIES",Hits
+http://103.113.116.150:25461/ekobali/yuk/1888
+#EXTINF:-1 tvg-id="" tvg-name="Hits Movies" tvg-logo="https://images.indihometv.com/logo_hitsmovie_ver1.png" group-title="MOVIES",Hits Movies
+http://103.113.116.150:25461/ekobali/yuk/1889
+#EXTINF:-1 tvg-id="" tvg-name="KIX" tvg-logo="https://images.indihometv.com/logo_kix_ver1.png" group-title="MOVIES",KIX
+http://103.113.116.150:25461/ekobali/yuk/1890
+#EXTINF:-1 tvg-id="" tvg-name="One" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d6/Logo_One_TV_Asia_%282020%29.png/220px-Logo_One_TV_Asia_%282020%29.png" group-title="MOVIES",One
+http://103.113.116.150:25461/ekobali/yuk/1891
+#EXTINF:-1 tvg-id="" tvg-name="GEM" tvg-logo="https://images.indihometv.com/logo_sgem_small.png" group-title="MOVIES",GEM
+http://103.113.116.150:25461/ekobali/yuk/1892
+#EXTINF:-1 tvg-id="" tvg-name="Citra Bioskop" tvg-logo="https://www.lyngsat.com/logo/tv/cc/citra-bioskop-id.png" group-title="MOVIES",Citra Bioskop
+http://103.113.116.150:25461/ekobali/yuk/1893
+#EXTINF:-1 tvg-id="" tvg-name="Citra Drama" tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png" group-title="LOKAL",Citra Drama
+http://103.113.116.150:25461/ekobali/yuk/1894
+#EXTINF:-1 tvg-id="" tvg-name="Citra Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png" group-title="ENTERTAINMENT",Citra Entertainment
+http://103.113.116.150:25461/ekobali/yuk/1895
+#EXTINF:-1 tvg-id="" tvg-name="Citra Muslim" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c5/Citra_Muslim_Scm.jpeg" group-title="RELIGI",Citra Muslim
+http://103.113.116.150:25461/ekobali/yuk/1896
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV" tvg-logo="https://images.indihometv.com/logo_spotv_ver1.png" group-title="SPORTS",SPOTV
+http://103.113.116.150:25461/ekobali/yuk/1897
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://images.indihometv.com/logo_spotv2_ver1.png" group-title="SPORTS",SPOTV 2
+http://103.113.116.150:25461/ekobali/yuk/1898
+#EXTINF:-1 tvg-id="" tvg-name="AFN" tvg-logo="https://images.indihometv.com/logo_afc_ver1.png" group-title="ENTERTAINMENT",AFN
+http://103.113.116.150:25461/ekobali/yuk/1899
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://images.indihometv.com/logo_tlc_ver1.png" group-title="ENTERTAINMENT",TLC
+http://103.113.116.150:25461/ekobali/yuk/1900
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://images.indihometv.com/logo_hgtv_ver1.png" group-title="KNOWLEDGE",HGTV
+http://103.113.116.150:25461/ekobali/yuk/1901
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://images.indihometv.com/logo_lifetime_small.png" group-title="ENTERTAINMENT",LIFETIME
+http://103.113.116.150:25461/ekobali/yuk/1902
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAX" tvg-logo="https://images.indihometv.com/logo_animax_small.png" group-title="KIDS",ANIMAX
+http://103.113.116.150:25461/ekobali/yuk/1903
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://images.indihometv.com/logo_boomerang_small.png" group-title="KIDS",Boomerang
+http://103.113.116.150:25461/ekobali/yuk/1904
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png" group-title="KIDS",CARTOON NETWORK
+http://103.113.116.150:25461/ekobali/yuk/1905
+#EXTINF:-1 tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://images.indihometv.com/logo_aniplus_small1.png" group-title="KIDS",ANIPLUS
+http://103.113.116.150:25461/ekobali/yuk/1906
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Movies" tvg-logo="" group-title="MOVIES",Celestial Movies
+http://103.113.116.150:25461/ekobali/yuk/1907
+#EXTINF:-1 tvg-id="" tvg-name="CCM" tvg-logo="" group-title="MOVIES",CCM
+http://103.113.116.150:25461/ekobali/yuk/1908
+#EXTINF:-1 tvg-id="" tvg-name="Rock Action" tvg-logo="" group-title="MOVIES",Rock Action
+http://103.113.116.150:25461/ekobali/yuk/1909
+#EXTINF:-1 tvg-id="" tvg-name="Rock Entertainment" tvg-logo="" group-title="ENTERTAINMENT",Rock Entertainment
+http://103.113.116.150:25461/ekobali/yuk/1910
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="KNOWLEDGE",Animal Planet
+http://103.113.116.150:25461/ekobali/yuk/1911
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="KNOWLEDGE",Discovery Channel
+http://103.113.116.150:25461/ekobali/yuk/1912
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="" group-title="KNOWLEDGE",History
+http://103.113.116.150:25461/ekobali/yuk/1913
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="KIDS",Nickelodeon
+http://103.113.116.150:25461/ekobali/yuk/1914
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="" group-title="KIDS",Nick Jr
+http://103.113.116.150:25461/ekobali/yuk/1915
+#EXTINF:-1 tvg-id="" tvg-name="HOREE!" tvg-logo="" group-title="KIDS",HOREE!
+http://103.113.116.150:25461/ekobali/yuk/1916
+#EXTINF:-1 tvg-id="" tvg-name="MTV 90S" tvg-logo="" group-title="ENTERTAINMENT",MTV 90S
+http://103.113.116.150:25461/ekobali/yuk/1917
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="" group-title="KNOWLEDGE",Love Nature 4K
+http://103.113.116.150:25461/ekobali/yuk/1918
+#EXTINF:-1 tvg-id="" tvg-name="Zee TV" tvg-logo="" group-title="MOVIES",Zee TV
+http://103.113.116.150:25461/ekobali/yuk/1919
+#EXTINF:-1 tvg-id="" tvg-name="Colors HD" tvg-logo="" group-title="MOVIES",Colors HD
+http://103.113.116.150:25461/ekobali/yuk/1922
+#EXTINF:-1 tvg-id="" tvg-name="Oxygen TV" tvg-logo="" group-title="LOKAL",Oxygen TV
+http://103.113.116.150:25461/ekobali/yuk/1923
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1" tvg-logo="" group-title="SPORTS",Sony Ten 1
+http://103.113.116.150:25461/ekobali/yuk/1924
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2" tvg-logo="" group-title="SPORTS",Sony Ten 2
+http://103.113.116.150:25461/ekobali/yuk/1925
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3" tvg-logo="" group-title="SPORTS",Sony Ten 3
+http://103.113.116.150:25461/ekobali/yuk/1926
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 4" tvg-logo="" group-title="SPORTS",Sony Ten 4
+http://103.113.116.150:25461/ekobali/yuk/1927
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 5" tvg-logo="" group-title="SPORTS",Sony Ten 5
+http://103.113.116.150:25461/ekobali/yuk/1928
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="" group-title="KNOWLEDGE",Nat Geo
+http://103.113.116.150:25461/ekobali/yuk/1929
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="KNOWLEDGE",Nat Geo Wild
+http://103.113.116.150:25461/ekobali/yuk/1930
+#EXTINF:-1 tvg-id="" tvg-name="LARVA" tvg-logo="" group-title="KIDS",LARVA
+http://103.113.116.150:25461/ekobali/yuk/1931
+#EXTINF:-1 tvg-id="" tvg-name="UPIN IPIN" tvg-logo="" group-title="KIDS",UPIN IPIN
+http://103.113.116.150:25461/ekobali/yuk/1932
+#EXTINF:-1 tvg-id="" tvg-name="DORAEMON" tvg-logo="" group-title="KIDS",DORAEMON
+http://103.113.116.150:25461/ekobali/yuk/1933
+#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry" tvg-logo="" group-title="KIDS",Tom & Jerry
+http://103.113.116.150:25461/ekobali/yuk/1934
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Bean" tvg-logo="" group-title="KIDS",Mr. Bean
+http://103.113.116.150:25461/ekobali/yuk/1935
+#EXTINF:-1 tvg-id="" tvg-name="Masha & Bear" tvg-logo="" group-title="KIDS",Masha & Bear
+http://103.113.116.150:25461/ekobali/yuk/1936
+#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="" group-title="KNOWLEDGE",Smithsonian Channel
+http://103.113.116.150:25461/ekobali/yuk/1937
+#EXTINF:-1 tvg-id="" tvg-name="Zoo Moo" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="KIDS",Zoo Moo
+http://103.113.116.150:25461/ekobali/yuk/1938
+#EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="KNOWLEDGE",Sony BBC Earth
+http://103.113.116.150:25461/ekobali/yuk/1939
+#EXTINF:-1 tvg-id="" tvg-name="WildEarth" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wildearth-za.png" group-title="KNOWLEDGE",WildEarth
+http://103.113.116.150:25461/ekobali/yuk/1940
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTER" tvg-logo="" group-title="NEWS",CNN INTER
+http://103.113.116.150:25461/ekobali/yuk/1941
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="" group-title="SPORTS",Tennis Channel
+http://103.113.116.150:25461/ekobali/yuk/1942
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="" group-title="SPORTS",ASTRO CRICKET
+http://103.113.116.150:25461/ekobali/yuk/1945
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" group-title="SPORTS",DMAX
+http://103.113.116.150:25461/ekobali/yuk/1947
+#EXTINF:-1 tvg-id="" tvg-name="WARKOP DKI" tvg-logo="" group-title="MOVIES",WARKOP DKI
+http://103.113.116.150:25461/ekobali/yuk/1948
