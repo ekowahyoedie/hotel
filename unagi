@@ -1,0 +1,62 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, http://ppmk.my.id/epg/epg.xml"  refresh="3600"
+
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fight.jpg",FIGHT SPORT
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683135&extension=m3u8&play_token=xdbt7BgLik
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png",MTV BIGGEST POP
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch241%29/index.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickjr.jpg",NICKELODEON
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683175&extension=m3u8&play_token=xdbt7BgLik
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg",AXN
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683144&extension=m3u8&play_token=xdbt7BgLik
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png",Cinemachi
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683090&extension=m3u8&play_token=xdbt7BgLik
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC EARTH
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_0.png",TVN
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683148&extension=m3u8&play_token=xdbt7BgLik
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/france_150px.jpg",FRANCE 24 ENGLISH
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683191&extension=m3u8&play_token=xdbt7BgLik
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",ALJAZEERA ENGLISH
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683190&extension=m3u8&play_token=xdbt7BgLik
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png",HISTORY
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683091&extension=m3u8&play_token=xdbt7BgLik
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png",THRILL
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683154&extension=m3u8&play_token=xdbt7BgLik
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png",CELESTIAL MOVIE
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683142&extension=m3u8&play_token=xdbt7BgLik
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_353.png",CGTN
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683111&extension=m3u8&play_token=xdbt7BgLik
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lh4.googleusercontent.com/c_C1GXpVRGgNbBzXTaHeYGp_emNHDlMPLqPJ6PF8vUCawVWz7GYPnPHBdP3LiYLQm6X_WxFT8QXydJ9AR5omOaI7udB1YP-arIii3m1SstIJdr5l3U9fo2Ce5v9rBMxM-Q=w1280""",ROCK EXTREME
+http://210.210.155.35/uq2663/h/h213/index.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ee/euro_fr.png",EURONEWS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch341%29/index.m3u8
+
+#EXTINF:-1 group-title="NATIONAL TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",TRANS TV
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683100&extension=m3u8&play_token=xdbt7BgLik
+
+#EXTINF:-1 group-title="NATIONAL TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",TRANS 7
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683116&extension=m3u8&play_token=xdbt7BgLik
+
+#EXTINF:-1 group-title="NATIONAL TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg",TVRI
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683195&extension=m3u8&play_token=xdbt7BgLik
+
+#EXTINF:-1 group-title="NATIONAL TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png",KOMPAS TV
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683194&extension=m3u8&play_token=xdbt7BgLik
+
+#EXTINF:-1 group-title="NATIONAL TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GTV
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683121&extension=m3u8&play_token=xdbt7BgLik
