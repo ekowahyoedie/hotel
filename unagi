@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, http://ppmk.my.id/epg/epg.xml"  refresh="3600"
 
-#EXTINF:-1 group-title="" tvg-logo"https://adiwanahotels.com/unagi-suites-resort-ubud-bali/wp-content/uploads/2021/12/LADSCAPE-LOGO-11.png",Adiwana Unagi
+#EXTINF:-1 group-title="" tvg-logo"https://adiwanahotels.com/unagi-suites-resort-ubud-bali/wp-content/uploads/2021/12/white-LADSCAPE-LOGO-11-1536x589.png",Adiwana Unagi
 https://raw.githubusercontent.com/ekowahyoedie/inhouse/main/unagi.mp4
 
-#EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fight.jpg",FIGHT SPORT
+#EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443",FIGHT SPORT
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683135&extension=m3u8&play_token=xdbt7BgLik
 
 #EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png",MTV BIGGEST POP
