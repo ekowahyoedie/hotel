@@ -3,22 +3,22 @@
 #EXTINF:-1 group-title="" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-MbKWaHxZWjTM_iM5z580wEgnAQ1RoOWD1A&usqp=CAU",Adiwana Unagi
 https://raw.githubusercontent.com/ekowahyoedie/inhouse/main/unagi.mp4
 
-#EXTINF:-1 group-title="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443",FIGHT SPORT
+#EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_304.png",FIGHT SPORT
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683135&extension=m3u8&play_token=xdbt7BgLik
 
-#EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png",MTV BIGGEST POP
+#EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_149.png",MTV BIGGEST POP
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch241%29/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickjr.jpg",NICKELODEON
+#EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_49.png",NICKELODEON
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683175&extension=m3u8&play_token=xdbt7BgLik
 
-#EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg",AXN
+#EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_154.png",AXN
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683144&extension=m3u8&play_token=xdbt7BgLik
 
-#EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png",Cinemachi
+#EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png",Cinemachi Action
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683090&extension=m3u8&play_token=xdbt7BgLik
 
-#EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC EARTH
+#EXTINF:-1 group-title="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_asia_us.png",Discovery Asia
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_0.png",TVN
@@ -36,16 +36,16 @@ http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683091&exten
 #EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png",THRILL
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683154&extension=m3u8&play_token=xdbt7BgLik
 
-#EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png",CELESTIAL MOVIE
+#EXTINF:-1 group-title="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png",CELESTIAL MOVIE
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683142&extension=m3u8&play_token=xdbt7BgLik
 
 #EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_353.png",CGTN
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683111&extension=m3u8&play_token=xdbt7BgLik
 
-#EXTINF:-1 group-title="" tvg-logo="https://lh4.googleusercontent.com/c_C1GXpVRGgNbBzXTaHeYGp_emNHDlMPLqPJ6PF8vUCawVWz7GYPnPHBdP3LiYLQm6X_WxFT8QXydJ9AR5omOaI7udB1YP-arIii3m1SstIJdr5l3U9fo2Ce5v9rBMxM-Q=w1280""",ROCK EXTREME
+#EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_240.png",ROCK Ent
 http://210.210.155.35/uq2663/h/h213/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/euro_fr.png",EURONEWS
+#EXTINF:-1 group-title="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/euronews-fr.svg",EURONEWS
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch341%29/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",TRANS TV
