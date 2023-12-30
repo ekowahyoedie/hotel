@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, http://ppmk.my.id/epg/epg.xml"  refresh="3600"
 
-#EXTINF:-1 group-title="" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-MbKWaHxZWjTM_iM5z580wEgnAQ1RoOWD1A&usqp=CAU",Adiwana Unagi
-https://raw.githubusercontent.com/ekowahyoedie/inhouse/main/unagi.mp4
 
 #EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_304.png",FIGHT SPORT
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683135&extension=m3u8&play_token=xdbt7BgLik
