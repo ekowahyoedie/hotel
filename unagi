@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, http://ppmk.my.id/epg/epg.xml"  refresh="3600"
 
 
-#EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_304.png",FIGHT SPORT
+#EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",FIGHT SPORT
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683135&extension=m3u8&play_token=xdbt7BgLik
 
 #EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_149.png",MTV BIGGEST POP
@@ -10,7 +10,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch241%29/index
 #EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_49.png",NICKELODEON
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683175&extension=m3u8&play_token=xdbt7BgLik
 
-#EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_154.png",AXN
+#EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg",AXN
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683144&extension=m3u8&play_token=xdbt7BgLik
 
 #EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png",Cinemachi Action
@@ -43,7 +43,7 @@ http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683111&exten
 #EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_240.png",ROCK Ent
 http://210.210.155.35/uq2663/h/h213/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/euronews-fr.svg",EURONEWS
+#EXTINF:-1 group-title="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png",EURONEWS
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch341%29/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",TRANS TV
