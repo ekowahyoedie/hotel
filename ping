@@ -3,21 +3,10 @@
 #EXTINF:-1 tvg-id="" tvg-name="Ping Hotel" tvg-logo="https://dynamic-media-cdn.tripadvisor.com/media/photo-s/03/34/7a/f1/ping-hotel-seminyak-bali.jpg?w=600&h=-1&s=1" group-title="Ping Hotel",Ping Hotel
 https://tinyurl.com/pinginfoo
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="MOVIES",HBO HD
-http://103.113.116.150:25461/ekobali/yuk/1851
-#EXTINF:-1 tvg-id="" tvg-name="HBO HITS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/200px-HBOHits-ASIA.png" group-title="MOVIES",HBO HITS HD
-http://103.113.116.150:25461/ekobali/yuk/1852
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="MOVIES",HBO SIGN HD
-http://103.113.116.150:25461/ekobali/yuk/1853
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="MOVIES",HBO FAMILY HD
-http://103.113.116.150:25461/ekobali/yuk/1854
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="" group-title="MOVIES",CINEMAX HD
-http://103.113.116.150:25461/ekobali/yuk/1855
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS 7 HD" tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="LOKAL",TRANS 7 HD
-http://103.113.116.150:25461/ekobali/yuk/1856
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TRANS TV HD" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="LOKAL",TRANS TV HD
-http://103.113.116.150:25461/ekobali/yuk/1857
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR HD" tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" group-title="LOKAL",INDOSIAR HD
 http://103.113.116.150:25461/ekobali/yuk/1858
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV HD" tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="LOKAL",SCTV HD
@@ -31,15 +20,18 @@ http://103.113.116.150:25461/ekobali/yuk/1862
 #EXTINF:-1 tvg-id="" tvg-name="iNEWS HD" tvg-logo="https://images.indihometv.com/logo_inews_small.png" group-title="LOKAL",iNEWS HD
 http://103.113.116.150:25461/ekobali/yuk/1863
 #EXTINF:-1 tvg-id="" tvg-name="TV ONE HD" tvg-logo="https://images.indihometv.com/logo_tvonenew_small.png" group-title="LOKAL",TV ONE HD
-http://103.113.116.150:25461/ekobali/yuk/1864
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch398%29/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANTV HD" tvg-logo="https://images.indihometv.com/logo_antvnew_small.png" group-title="LOKAL",ANTV HD
-http://103.113.116.150:25461/ekobali/yuk/1865
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="NET TV HD" tvg-logo="https://images.indihometv.com/logo_net_ver1.png" group-title="LOKAL",NET TV HD
 http://103.113.116.150:25461/ekobali/yuk/1866
 #EXTINF:-1 tvg-id="" tvg-name="METRO TV HD" tvg-logo="https://images.indihometv.com/logo_metrotv_ver1.png" group-title="LOKAL",METRO TV HD
-http://103.113.116.150:25461/ekobali/yuk/1867
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV HD" tvg-logo="https://images.indihometv.com/logo_kompastv_small.png" group-title="LOKAL",KOMPAS TV HD
-http://103.113.116.150:25461/ekobali/yuk/1868
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="RTV HD" tvg-logo="https://images.indihometv.com/logo_rtv_ver1.png" group-title="LOKAL",RTV HD
 http://103.113.116.150:25461/ekobali/yuk/1869
 #EXTINF:-1 tvg-id="" tvg-name="MOJI HD" tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="LOKAL",MOJI HD
@@ -59,63 +51,85 @@ http://103.113.116.150:25461/ekobali/yuk/1876
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD" tvg-logo="https://images.indihometv.com/logo_bein2_ver1.png" group-title="SPORTS",beIN Sports 3 HD
 http://103.113.116.150:25461/ekobali/yuk/1877
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://images.indihometv.com/logo_axn_ver2.png" group-title="MOVIES",AXN
-http://103.113.116.150:25461/ekobali/yuk/1879
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Dunia Lain" tvg-logo="https://images.indihometv.com/logo_dunialain_small.png" group-title="LOKAL",Dunia Lain
 http://103.113.116.150:25461/ekobali/yuk/1880
 #EXTINF:-1 tvg-id="" tvg-name="Crime Investigation" tvg-logo="https://images.indihometv.com/logo_crimeinvest_small.png" group-title="ENTERTAINMENT",Crime Investigation
-http://103.113.116.150:25461/ekobali/yuk/1881
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy" tvg-logo="https://images.indihometv.com/logo_galaxy_small1.png" group-title="MOVIES",Galaxy
 http://103.113.116.150:25461/ekobali/yuk/1882
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium" tvg-logo="https://images.indihometv.com/logo_galaxypremium_small.png" group-title="MOVIES",Galaxy Premium
 http://103.113.116.150:25461/ekobali/yuk/1883
 #EXTINF:-1 tvg-id="" tvg-name="TVN " tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png" group-title="MOVIES",TVN 
-http://103.113.116.150:25461/ekobali/yuk/1884
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch339%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TVN Movies" tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png" group-title="MOVIES",TVN Movies
-http://103.113.116.150:25461/ekobali/yuk/1885
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Usee Sports" tvg-logo="https://images.indihometv.com/assets/useesports-88.png" group-title="SPORTS",Usee Sports
 http://103.113.116.150:25461/ekobali/yuk/1886
 #EXTINF:-1 tvg-id="" tvg-name="Usee Sports 2" tvg-logo="https://images.indihometv.com/logo_useesports2_ver1.png" group-title="SPORTS",Usee Sports 2
 http://103.113.116.150:25461/ekobali/yuk/1887
 #EXTINF:-1 tvg-id="" tvg-name="Hits" tvg-logo="https://images.indihometv.com/logo_hits_ver1.png" group-title="MOVIES",Hits
-http://103.113.116.150:25461/ekobali/yuk/1888
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Hits Movies" tvg-logo="https://images.indihometv.com/logo_hitsmovie_ver1.png" group-title="MOVIES",Hits Movies
-http://103.113.116.150:25461/ekobali/yuk/1889
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="KIX" tvg-logo="https://images.indihometv.com/logo_kix_ver1.png" group-title="MOVIES",KIX
-http://103.113.116.150:25461/ekobali/yuk/1890
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch336%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="One" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d6/Logo_One_TV_Asia_%282020%29.png/220px-Logo_One_TV_Asia_%282020%29.png" group-title="MOVIES",One
-http://103.113.116.150:25461/ekobali/yuk/1891
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="GEM" tvg-logo="https://images.indihometv.com/logo_sgem_small.png" group-title="MOVIES",GEM
-http://103.113.116.150:25461/ekobali/yuk/1892
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Citra Bioskop" tvg-logo="https://www.lyngsat.com/logo/tv/cc/citra-bioskop-id.png" group-title="MOVIES",Citra Bioskop
-http://103.113.116.150:25461/ekobali/yuk/1893
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Citra Drama" tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png" group-title="LOKAL",Citra Drama
-http://103.113.116.150:25461/ekobali/yuk/1894
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Citra Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png" group-title="ENTERTAINMENT",Citra Entertainment
-http://103.113.116.150:25461/ekobali/yuk/1895
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Citra Muslim" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c5/Citra_Muslim_Scm.jpeg" group-title="RELIGI",Citra Muslim
-http://103.113.116.150:25461/ekobali/yuk/1896
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV" tvg-logo="https://images.indihometv.com/logo_spotv_ver1.png" group-title="SPORTS",SPOTV
-http://103.113.116.150:25461/ekobali/yuk/1897
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://images.indihometv.com/logo_spotv2_ver1.png" group-title="SPORTS",SPOTV 2
-http://103.113.116.150:25461/ekobali/yuk/1898
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AFN" tvg-logo="https://images.indihometv.com/logo_afc_ver1.png" group-title="ENTERTAINMENT",AFN
-http://103.113.116.150:25461/ekobali/yuk/1899
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://images.indihometv.com/logo_tlc_ver1.png" group-title="ENTERTAINMENT",TLC
-http://103.113.116.150:25461/ekobali/yuk/1900
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://images.indihometv.com/logo_hgtv_ver1.png" group-title="KNOWLEDGE",HGTV
-http://103.113.116.150:25461/ekobali/yuk/1901
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://images.indihometv.com/logo_lifetime_small.png" group-title="ENTERTAINMENT",LIFETIME
-http://103.113.116.150:25461/ekobali/yuk/1902
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch155%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAX" tvg-logo="https://images.indihometv.com/logo_animax_small.png" group-title="KIDS",ANIMAX
-http://103.113.116.150:25461/ekobali/yuk/1903
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch52%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://images.indihometv.com/logo_boomerang_small.png" group-title="KIDS",Boomerang
 http://103.113.116.150:25461/ekobali/yuk/1904
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png" group-title="KIDS",CARTOON NETWORK
-http://103.113.116.150:25461/ekobali/yuk/1905
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://images.indihometv.com/logo_aniplus_small1.png" group-title="KIDS",ANIPLUS
 http://103.113.116.150:25461/ekobali/yuk/1906
 #EXTINF:-1 tvg-id="" tvg-name="Celestial Movies" tvg-logo="" group-title="MOVIES",Celestial Movies
-http://103.113.116.150:25461/ekobali/yuk/1907
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch204%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="CCM" tvg-logo="" group-title="MOVIES",CCM
 http://103.113.116.150:25461/ekobali/yuk/1908
 #EXTINF:-1 tvg-id="" tvg-name="Rock Action" tvg-logo="" group-title="MOVIES",Rock Action
@@ -123,23 +137,31 @@ http://103.113.116.150:25461/ekobali/yuk/1909
 #EXTINF:-1 tvg-id="" tvg-name="Rock Entertainment" tvg-logo="" group-title="ENTERTAINMENT",Rock Entertainment
 http://103.113.116.150:25461/ekobali/yuk/1910
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="KNOWLEDGE",Animal Planet
-http://103.113.116.150:25461/ekobali/yuk/1911
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="KNOWLEDGE",Discovery Channel
-http://103.113.116.150:25461/ekobali/yuk/1912
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="" group-title="KNOWLEDGE",History
-http://103.113.116.150:25461/ekobali/yuk/1913
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="KIDS",Nickelodeon
-http://103.113.116.150:25461/ekobali/yuk/1914
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch105%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="" group-title="KIDS",Nick Jr
-http://103.113.116.150:25461/ekobali/yuk/1915
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch124%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="HOREE!" tvg-logo="" group-title="KIDS",HOREE!
 http://103.113.116.150:25461/ekobali/yuk/1916
 #EXTINF:-1 tvg-id="" tvg-name="MTV 90S" tvg-logo="" group-title="ENTERTAINMENT",MTV 90S
-http://103.113.116.150:25461/ekobali/yuk/1917
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch241%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="" group-title="KNOWLEDGE",Love Nature 4K
-http://103.113.116.150:25461/ekobali/yuk/1918
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Zee TV" tvg-logo="" group-title="MOVIES",Zee TV
-http://103.113.116.150:25461/ekobali/yuk/1919
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch161%29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Colors HD" tvg-logo="" group-title="MOVIES",Colors HD
 http://103.113.116.150:25461/ekobali/yuk/1922
 #EXTINF:-1 tvg-id="" tvg-name="Oxygen TV" tvg-logo="" group-title="LOKAL",Oxygen TV
