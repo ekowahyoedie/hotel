@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Sacred Villa" tvg-name="Sacred Valley" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgNguL6RlzumN4ntfiiR0Etj068PV73O_QDtNWUd9md0shdgzrUYsY2xWgjlqyotrJthQ&usqp=CAU" group-title="Sacred Valley",Sacred Valley
+https://raw.githubusercontent.com/ekowahyoedie/inhouse/main/sacredvilla.mp4
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS 7 HD" tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="LOKAL",TRANS 7 HD
+http://103.113.116.150:25461/ekobali/yuk/1856
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TRANS TV HD" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="LOKAL",TRANS TV HD
+http://103.113.116.150:25461/ekobali/yuk/1857
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR HD" tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" group-title="LOKAL",INDOSIAR HD
+http://103.113.116.150:25461/ekobali/yuk/1858
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV HD" tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="LOKAL",SCTV HD
+http://103.113.116.150:25461/ekobali/yuk/1859
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI HD" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png" group-title="LOKAL",RCTI HD
+http://103.113.116.150:25461/ekobali/yuk/1860
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV HD" tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png" group-title="LOKAL",MNC TV HD
+http://103.113.116.150:25461/ekobali/yuk/1861
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV HD" tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png" group-title="LOKAL",GTV HD
+http://103.113.116.150:25461/ekobali/yuk/1862
+#EXTINF:-1 tvg-id="" tvg-name="iNEWS HD" tvg-logo="https://images.indihometv.com/logo_inews_small.png" group-title="LOKAL",iNEWS HD
+http://103.113.116.150:25461/ekobali/yuk/1863
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE HD" tvg-logo="https://images.indihometv.com/logo_tvonenew_small.png" group-title="LOKAL",TV ONE HD
+http://103.113.116.150:25461/ekobali/yuk/1864
+#EXTINF:-1 tvg-id="" tvg-name="ANTV HD" tvg-logo="https://images.indihometv.com/logo_antvnew_small.png" group-title="LOKAL",ANTV HD
+http://103.113.116.150:25461/ekobali/yuk/1865
+#EXTINF:-1 tvg-id="" tvg-name="NET TV HD" tvg-logo="https://images.indihometv.com/logo_net_ver1.png" group-title="LOKAL",NET TV HD
+http://103.113.116.150:25461/ekobali/yuk/1866
+#EXTINF:-1 tvg-id="" tvg-name="METRO TV HD" tvg-logo="https://images.indihometv.com/logo_metrotv_ver1.png" group-title="LOKAL",METRO TV HD
+http://103.113.116.150:25461/ekobali/yuk/1867
+#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV HD" tvg-logo="https://images.indihometv.com/logo_kompastv_small.png" group-title="LOKAL",KOMPAS TV HD
+http://103.113.116.150:25461/ekobali/yuk/1868
+#EXTINF:-1 tvg-id="" tvg-name="RTV HD" tvg-logo="https://images.indihometv.com/logo_rtv_ver1.png" group-title="LOKAL",RTV HD
+http://103.113.116.150:25461/ekobali/yuk/1869
+#EXTINF:-1 tvg-id="" tvg-name="MOJI HD" tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="LOKAL",MOJI HD
+http://103.113.116.150:25461/ekobali/yuk/1870
+#EXTINF:-1 tvg-id="" tvg-name="IMC HD" tvg-logo="https://images.indihometv.com/logo_imc_small.png" group-title="MOVIES",IMC HD
+http://103.113.116.150:25461/ekobali/yuk/1871
+#EXTINF:-1 tvg-id="" tvg-name="FLIK HD" tvg-logo="https://images.indihometv.com/logo_flik_ver2.png" group-title="MOVIES",FLIK HD
+http://103.113.116.150:25461/ekobali/yuk/1872
+#EXTINF:-1 tvg-id="" tvg-name="BIOSKOP INDONESIA HD" tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png" group-title="MOVIES",BIOSKOP INDONESIA HD
+http://103.113.116.150:25461/ekobali/yuk/1873
