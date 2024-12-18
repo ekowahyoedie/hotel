@@ -1,0 +1,7 @@
+#EXTM3U url-tvg=""  refresh="3600"
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Zazzy's Pizza",1
+http://192.168.1.168/1.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Zazzy's Pizza",2
+http://192.168.1.168/2.ts
