@@ -8,3 +8,6 @@ http://172.16.141.200/2.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Zazzy's Pizza",3
 http://172.16.141.200/4.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Zazzy's Pizza",4
+http://172.16.141.200/6.ts
