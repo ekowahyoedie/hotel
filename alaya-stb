@@ -58,7 +58,7 @@ udp://@239.1.0.28:3000
 #EXTINF:-1 tvg-id="" tvg-name="KIX" tvg-logo="" group-title="ALAYA",KIX
 udp://@239.1.0.29:3000
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="" group-title="ALAYA",Lifetime
-udp://@239.1.0.30:3000
+udp://@239.1.0.71:3000
 #EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="" group-title="ALAYA",Vision Prime
 udp://@239.1.0.31:3000
 #EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="" group-title="ALAYA",NHK World Japan
@@ -74,17 +74,17 @@ udp://@239.1.0.36:3000
 #EXTINF:-1 tvg-id="" tvg-name="Muslim TV" tvg-logo="" group-title="ALAYA",Muslim TV
 udp://@239.1.0.37:3000
 #EXTINF:-1 tvg-id="" tvg-name="Celebritas" tvg-logo="" group-title="ALAYA",Celebritas
-udp://@239.1.0.38:3000
+udp://@239.1.0.72:3000
 #EXTINF:-1 tvg-id="" tvg-name="Entertainment" tvg-logo="" group-title="ALAYA",Entertainment
-udp://@239.1.0.39:3000
+udp://@239.1.0.73:3000
 #EXTINF:-1 tvg-id="" tvg-name="Food & Travel" tvg-logo="" group-title="ALAYA",Food & Travel
-udp://@239.1.0.40:3000
+udp://@239.1.0.74:3000
 #EXTINF:-1 tvg-id="" tvg-name="Hanacaraka" tvg-logo="" group-title="ALAYA",Hanacaraka
 udp://@239.1.0.41:3000
 #EXTINF:-1 tvg-id="" tvg-name="KIDS TV" tvg-logo="" group-title="ALAYA",KIDS TV
 udp://@239.1.0.42:3000
 #EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-logo="" group-title="ALAYA",Music Channel
-udp://@239.1.0.43:3000
+udp://@239.1.0.75:3000
 #EXTINF:-1 tvg-id="" tvg-name="Sindo News TV" tvg-logo="" group-title="ALAYA",Sindo News TV
 udp://@239.1.0.44:3000
 #EXTINF:-1 tvg-id="" tvg-name="Sportstars" tvg-logo="" group-title="ALAYA",Sportstars
@@ -92,30 +92,30 @@ udp://@239.1.0.45:3000
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="" group-title="ALAYA",GTV
 udp://@239.1.0.46:3000
 #EXTINF:-1 tvg-id="" tvg-name="INews" tvg-logo="" group-title="ALAYA",INews
-udp://@239.1.0.47:3000
+udp://@239.1.0.76:3000
 #EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="" group-title="ALAYA",IDX
-udp://@239.1.0.48:3000
+udp://@239.1.0.77:3000
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="" group-title="ALAYA",RCTI
 udp://@239.1.0.49:3000
 #EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="" group-title="ALAYA",MNC TV
-udp://@239.1.0.50:3000
+udp://@239.1.0.78:3000
 #EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="" group-title="ALAYA",ANTV
-udp://@239.1.0.51:3000
+udp://@239.1.0.79:3000
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="ALAYA",Indosiar
 udp://@239.1.0.52:3000
 #EXTINF:-1 tvg-id="" tvg-name="Kompas TV" tvg-logo="" group-title="ALAYA",Kompas TV
-udp://@239.1.0.53:3000
+udp://@239.1.0.80:3000
 #EXTINF:-1 tvg-id="" tvg-name="Life" tvg-logo="" group-title="ALAYA",Life
 udp://@239.1.0.54:3000
 #EXTINF:-1 tvg-id="" tvg-name="MD TV" tvg-logo="" group-title="ALAYA",MD TV
-udp://@239.1.0.55:3000
+udp://@239.1.0.70:3000
 #EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-logo="" group-title="ALAYA",Metro TV
 udp://@239.1.0.56:3000
 #EXTINF:-1 tvg-id="" tvg-name="TV One" tvg-logo="" group-title="ALAYA",TV One
-udp://@239.1.0.57:3000
+udp://@239.1.0.81:3000
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="" group-title="ALAYA",SCTV
-udp://@239.1.0.58:3000
+udp://@239.1.0.24:3000
 #EXTINF:-1 tvg-id="" tvg-name="Trans 7" tvg-logo="" group-title="ALAYA",Trans 7
-udp://@239.1.0.59:3000
+udp://@239.1.0.82:3000
 #EXTINF:-1 tvg-id="" tvg-name="Trans TV" tvg-logo="" group-title="ALAYA",Trans TV
-udp://@239.1.0.60:3000
+udp://@239.1.0.83:3000
