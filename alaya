@@ -1,121 +1,121 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ABC Australia" tvg-logo="" group-title="LIVETV",ABC Australia
+#EXTINF:-1 tvg-id="" tvg-name="ABC AUSTRALIA" tvg-logo="" group-title="ALAYA",ABC AUSTRALIA
 udp://@239.1.0.1:3000
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="LIVETV",AXN
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera English " tvg-logo="" group-title="ALAYA",Al Jazeera English 
 udp://@239.1.0.2:3000
-#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera English" tvg-logo="" group-title="LIVETV",Al Jazeera English
-http://192.168.40.4:25461/5/5/3
-#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="" group-title="LIVETV",Animax
-http://192.168.40.4:25461/5/5/4
-#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="" group-title="LIVETV",Arirang
-http://192.168.40.4:25461/5/5/5
-#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="" group-title="LIVETV",BBC Earth
-http://192.168.40.4:25461/5/5/6
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="LIVETV",Bloomberg
-http://192.168.40.4:25461/5/5/7
-#EXTINF:-1 tvg-id="" tvg-name="Celestial Classic Movies" tvg-logo="" group-title="LIVETV",Celestial Classic Movies
-http://192.168.40.4:25461/5/5/8
-#EXTINF:-1 tvg-id="" tvg-name="Celestial Movies" tvg-logo="" group-title="LIVETV",Celestial Movies
-http://192.168.40.4:25461/5/5/9
-#EXTINF:-1 tvg-id="" tvg-name="CGTN Doc" tvg-logo="" group-title="LIVETV",CGTN Doc
-http://192.168.40.4:25461/5/5/10
-#EXTINF:-1 tvg-id="" tvg-name="Cineedge" tvg-logo="" group-title="LIVETV",Cineedge
-http://192.168.40.4:25461/5/5/11
-#EXTINF:-1 tvg-id="" tvg-name="DW TV" tvg-logo="" group-title="LIVETV",DW TV
-http://192.168.40.4:25461/5/5/12
-#EXTINF:-1 tvg-id="" tvg-name="Fight Sport" tvg-logo="" group-title="LIVETV",Fight Sport
-http://192.168.40.4:25461/5/5/13
-#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="" group-title="LIVETV",France 24
-http://192.168.40.4:25461/5/5/14
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium" tvg-logo="" group-title="LIVETV",Galaxy Premium
-http://192.168.40.4:25461/5/5/15
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy" tvg-logo="" group-title="LIVETV",Galaxy
-http://192.168.40.4:25461/5/5/16
-#EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="" group-title="LIVETV",IMC
-http://192.168.40.4:25461/5/5/17
-#EXTINF:-1 tvg-id="" tvg-name="Global Trekker" tvg-logo="" group-title="LIVETV",Global Trekker
-http://192.168.40.4:25461/5/5/18
-#EXTINF:-1 tvg-id="" tvg-name="Hits" tvg-logo="" group-title="LIVETV",Hits
-http://192.168.40.4:25461/5/5/19
-#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="" group-title="LIVETV",History
-http://192.168.40.4:25461/5/5/20
-#EXTINF:-1 tvg-id="" tvg-name="Kix" tvg-logo="" group-title="LIVETV",Kix
-http://192.168.40.4:25461/5/5/21
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="" group-title="LIVETV",Lifetime
-http://192.168.40.4:25461/5/5/22
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="" group-title="LIVETV",Love Nature
-http://192.168.40.4:25461/5/5/23
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="" group-title="LIVETV",MTV Live
-http://192.168.40.4:25461/5/5/24
-#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="" group-title="LIVETV",NHK World Japan
-http://192.168.40.4:25461/5/5/25
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="LIVETV",Nickelodeon
-http://192.168.40.4:25461/5/5/26
-#EXTINF:-1 tvg-id="" tvg-name="One Channel" tvg-logo="" group-title="LIVETV",One Channel
-http://192.168.40.4:25461/5/5/27
-#EXTINF:-1 tvg-id="" tvg-name="Original" tvg-logo="" group-title="LIVETV",Original
-http://192.168.40.4:25461/5/5/28
-#EXTINF:-1 tvg-id="" tvg-name="Rock Action" tvg-logo="" group-title="LIVETV",Rock Action
-http://192.168.40.4:25461/5/5/29
-#EXTINF:-1 tvg-id="" tvg-name="SPOTV" tvg-logo="" group-title="LIVETV",SPOTV
-http://192.168.40.4:25461/5/5/30
-#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="" group-title="LIVETV",SPOTV 2
-http://192.168.40.4:25461/5/5/31
-#EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="" group-title="LIVETV",Thrill
-http://192.168.40.4:25461/5/5/32
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bioskop" tvg-logo="" group-title="LIVETV",Zee Bioskop
-http://192.168.40.4:25461/5/5/33
-#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="" group-title="LIVETV",TVN
-http://192.168.40.4:25461/5/5/34
-#EXTINF:-1 tvg-id="" tvg-name="TVN Movies" tvg-logo="" group-title="LIVETV",TVN Movies
-http://192.168.40.4:25461/5/5/35
-#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="" group-title="LIVETV",ANTV
-http://192.168.40.4:25461/5/5/36
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="LIVETV",Indosiar
-http://192.168.40.4:25461/5/5/37
-#EXTINF:-1 tvg-id="" tvg-name="Kompas TV" tvg-logo="" group-title="LIVETV",Kompas TV
-http://192.168.40.4:25461/5/5/38
-#EXTINF:-1 tvg-id="" tvg-name="Life" tvg-logo="" group-title="LIVETV",Life
-http://192.168.40.4:25461/5/5/39
-#EXTINF:-1 tvg-id="" tvg-name="MD TV" tvg-logo="" group-title="LIVETV",MD TV
-http://192.168.40.4:25461/5/5/40
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="" group-title="LIVETV",RCTI
-http://192.168.40.4:25461/5/5/41
-#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="" group-title="LIVETV",GTV
-http://192.168.40.4:25461/5/5/42
-#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="" group-title="LIVETV",MNC TV
-http://192.168.40.4:25461/5/5/43
-#EXTINF:-1 tvg-id="" tvg-name="INews" tvg-logo="" group-title="LIVETV",INews
-http://192.168.40.4:25461/5/5/44
-#EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="" group-title="LIVETV",IDX
-http://192.168.40.4:25461/5/5/45
-#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="" group-title="LIVETV",SCTV
-http://192.168.40.4:25461/5/5/46
-#EXTINF:-1 tvg-id="" tvg-name="TV One" tvg-logo="" group-title="LIVETV",TV One
-http://192.168.40.4:25461/5/5/47
-#EXTINF:-1 tvg-id="" tvg-name="Trans 7" tvg-logo="" group-title="LIVETV",Trans 7
-http://192.168.40.4:25461/5/5/48
-#EXTINF:-1 tvg-id="" tvg-name="Trans TV" tvg-logo="" group-title="LIVETV",Trans TV
-http://192.168.40.4:25461/5/5/49
-#EXTINF:-1 tvg-id="" tvg-name="Celebritas" tvg-logo="" group-title="LIVETV",Celebritas
-http://192.168.40.4:25461/5/5/50
-#EXTINF:-1 tvg-id="" tvg-name="Entertainment" tvg-logo="" group-title="LIVETV",Entertainment
-http://192.168.40.4:25461/5/5/51
-#EXTINF:-1 tvg-id="" tvg-name="Food & Travel" tvg-logo="" group-title="LIVETV",Food & Travel
-http://192.168.40.4:25461/5/5/52
-#EXTINF:-1 tvg-id="" tvg-name="Hanacaraka" tvg-logo="" group-title="LIVETV",Hanacaraka
-http://192.168.40.4:25461/5/5/53
-#EXTINF:-1 tvg-id="" tvg-name="Kids TV" tvg-logo="" group-title="LIVETV",Kids TV
-http://192.168.40.4:25461/5/5/54
-#EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-logo="" group-title="LIVETV",Metro TV
-http://192.168.40.4:25461/5/5/55
-#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="" group-title="LIVETV",Vision Prime
-http://192.168.40.4:25461/5/5/56
-#EXTINF:-1 tvg-id="" tvg-name="Sportstars" tvg-logo="" group-title="LIVETV",Sportstars
-http://192.168.40.4:25461/5/5/57
-#EXTINF:-1 tvg-id="" tvg-name="Sindo News" tvg-logo="" group-title="LIVETV",Sindo News
-http://192.168.40.4:25461/5/5/58
-#EXTINF:-1 tvg-id="" tvg-name="Muslim TV" tvg-logo="" group-title="LIVETV",Muslim TV
-http://192.168.40.4:25461/5/5/59
-#EXTINF:-1 tvg-id="" tvg-name="Channel News Asia" tvg-logo="" group-title="LIVETV",Channel News Asia
-http://192.168.40.4:25461/5/5/60
+#EXTINF:-1 tvg-id="" tvg-name="Global Trekker " tvg-logo="" group-title="ALAYA",Global Trekker 
+udp://@239.1.0.3:3000
+#EXTINF:-1 tvg-id="" tvg-name="Animax " tvg-logo="" group-title="ALAYA",Animax 
+udp://@239.1.0.4:3000
+#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="" group-title="ALAYA",Arirang
+udp://@239.1.0.5:3000
+#EXTINF:-1 tvg-id="" tvg-name="TVN Movies  " tvg-logo="" group-title="ALAYA",TVN Movies  
+udp://@239.1.0.6:3000
+#EXTINF:-1 tvg-id="" tvg-name="AXN " tvg-logo="" group-title="ALAYA",AXN 
+udp://@239.1.0.7:3000
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth HD" tvg-logo="" group-title="ALAYA",BBC Earth HD
+udp://@239.1.0.8:3000
+#EXTINF:-1 tvg-id="" tvg-name="Cineedge HD" tvg-logo="" group-title="ALAYA",Cineedge HD
+udp://@239.1.0.9:3000
+#EXTINF:-1 tvg-id="" tvg-name="Originals HD" tvg-logo="" group-title="ALAYA",Originals HD
+udp://@239.1.0.10:3000
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="" group-title="ALAYA",Love Nature
+udp://@239.1.0.11:3000
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="" group-title="ALAYA",TVN
+udp://@239.1.0.12:3000
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="ALAYA",Nickelodeon
+udp://@239.1.0.13:3000
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="ALAYA",Bloomberg
+udp://@239.1.0.14:3000
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sport" tvg-logo="" group-title="ALAYA",Fight Sport
+udp://@239.1.0.15:3000
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Classic Movies" tvg-logo="" group-title="ALAYA",Celestial Classic Movies
+udp://@239.1.0.16:3000
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Movies" tvg-logo="" group-title="ALAYA",Celestial Movies
+udp://@239.1.0.17:3000
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Doc" tvg-logo="" group-title="ALAYA",CGTN Doc
+udp://@239.1.0.18:3000
+#EXTINF:-1 tvg-id="" tvg-name="Channel News Asia" tvg-logo="" group-title="ALAYA",Channel News Asia
+udp://@239.1.0.19:3000
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV" tvg-logo="" group-title="ALAYA",SPOTV
+udp://@239.1.0.20:3000
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="" group-title="ALAYA",SPOTV 2
+udp://@239.1.0.21:3000
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium" tvg-logo="" group-title="ALAYA",Galaxy Premium
+udp://@239.1.0.22:3000
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy" tvg-logo="" group-title="ALAYA",Galaxy
+udp://@239.1.0.23:3000
+#EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="" group-title="ALAYA",IMC
+udp://@239.1.0.24:3000
+#EXTINF:-1 tvg-id="" tvg-name="DW TV" tvg-logo="" group-title="ALAYA",DW TV
+udp://@239.1.0.25:3000
+#EXTINF:-1 tvg-id="" tvg-name="France  24 English" tvg-logo="" group-title="ALAYA",France  24 English
+udp://@239.1.0.26:3000
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="" group-title="ALAYA",History
+udp://@239.1.0.27:3000
+#EXTINF:-1 tvg-id="" tvg-name="Hits" tvg-logo="" group-title="ALAYA",Hits
+udp://@239.1.0.28:3000
+#EXTINF:-1 tvg-id="" tvg-name="KIX" tvg-logo="" group-title="ALAYA",KIX
+udp://@239.1.0.29:3000
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="" group-title="ALAYA",Lifetime
+udp://@239.1.0.71:3000
+#EXTINF:-1 tvg-id="" tvg-name="Vision Prime" tvg-logo="" group-title="ALAYA",Vision Prime
+udp://@239.1.0.31:3000
+#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="" group-title="ALAYA",NHK World Japan
+udp://@239.1.0.32:3000
+#EXTINF:-1 tvg-id="" tvg-name="One Channel" tvg-logo="" group-title="ALAYA",One Channel
+udp://@239.1.0.33:3000
+#EXTINF:-1 tvg-id="" tvg-name="Rock Actions" tvg-logo="" group-title="ALAYA",Rock Actions
+udp://@239.1.0.34:3000
+#EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="" group-title="ALAYA",Thrill
+udp://@239.1.0.35:3000
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bioskop" tvg-logo="" group-title="ALAYA",Zee Bioskop
+udp://@239.1.0.36:3000
+#EXTINF:-1 tvg-id="" tvg-name="Muslim TV" tvg-logo="" group-title="ALAYA",Muslim TV
+udp://@239.1.0.37:3000
+#EXTINF:-1 tvg-id="" tvg-name="Celebritas" tvg-logo="" group-title="ALAYA",Celebritas
+udp://@239.1.0.72:3000
+#EXTINF:-1 tvg-id="" tvg-name="Entertainment" tvg-logo="" group-title="ALAYA",Entertainment
+udp://@239.1.0.73:3000
+#EXTINF:-1 tvg-id="" tvg-name="Food & Travel" tvg-logo="" group-title="ALAYA",Food & Travel
+udp://@239.1.0.74:3000
+#EXTINF:-1 tvg-id="" tvg-name="Hanacaraka" tvg-logo="" group-title="ALAYA",Hanacaraka
+udp://@239.1.0.41:3000
+#EXTINF:-1 tvg-id="" tvg-name="KIDS TV" tvg-logo="" group-title="ALAYA",KIDS TV
+udp://@239.1.0.42:3000
+#EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-logo="" group-title="ALAYA",Music Channel
+udp://@239.1.0.75:3000
+#EXTINF:-1 tvg-id="" tvg-name="Sindo News TV" tvg-logo="" group-title="ALAYA",Sindo News TV
+udp://@239.1.0.44:3000
+#EXTINF:-1 tvg-id="" tvg-name="Sportstars" tvg-logo="" group-title="ALAYA",Sportstars
+udp://@239.1.0.45:3000
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="" group-title="ALAYA",GTV
+udp://@239.1.0.46:3000
+#EXTINF:-1 tvg-id="" tvg-name="INews" tvg-logo="" group-title="ALAYA",INews
+udp://@239.1.0.76:3000
+#EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="" group-title="ALAYA",IDX
+udp://@239.1.0.77:3000
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="" group-title="ALAYA",RCTI
+udp://@239.1.0.49:3000
+#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="" group-title="ALAYA",MNC TV
+udp://@239.1.0.78:3000
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="" group-title="ALAYA",ANTV
+udp://@239.1.0.79:3000
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="ALAYA",Indosiar
+udp://@239.1.0.52:3000
+#EXTINF:-1 tvg-id="" tvg-name="Kompas TV" tvg-logo="" group-title="ALAYA",Kompas TV
+udp://@239.1.0.80:3000
+#EXTINF:-1 tvg-id="" tvg-name="Life" tvg-logo="" group-title="ALAYA",Life
+udp://@239.1.0.54:3000
+#EXTINF:-1 tvg-id="" tvg-name="MD TV" tvg-logo="" group-title="ALAYA",MD TV
+udp://@239.1.0.70:3000
+#EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-logo="" group-title="ALAYA",Metro TV
+udp://@239.1.0.56:3000
+#EXTINF:-1 tvg-id="" tvg-name="TV One" tvg-logo="" group-title="ALAYA",TV One
+udp://@239.1.0.81:3000
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="" group-title="ALAYA",SCTV
+udp://@239.1.0.24:3000
+#EXTINF:-1 tvg-id="" tvg-name="Trans 7" tvg-logo="" group-title="ALAYA",Trans 7
+udp://@239.1.0.82:3000
+#EXTINF:-1 tvg-id="" tvg-name="Trans TV" tvg-logo="" group-title="ALAYA",Trans TV
+udp://@239.1.0.83:3000
