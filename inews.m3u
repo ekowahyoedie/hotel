@@ -3,9 +3,7 @@
 https://live-edge-eu-1.cdn.enetres.net/56495F77FD124FECA75590A906965F2C022/live-3000/index.m3u8
 
 #EXTINF:-1 tvg-id="Inews",Inews
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvku.family/Vis1/index.drm?id=4
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/cd26ccf057804cd78c89474a9302031c/index.mpd
+//#KODIPROP:inputstream.adaptive.license_key=https://tvku.family/Vis1/index.drm?id=4
+http://omegatv.my.id:25461/eko/eko123/27
 
 
