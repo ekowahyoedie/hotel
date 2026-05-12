@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Inews
+#EXTINF:-1 tvg-id="" tvg-name="Inews" tvg-logo="" group-title="",Inews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvku.family/Vis1/index.drm?id=4
 #EXTVLCOPT:http-referrer=https://visionplus.id/
